@@ -15,7 +15,7 @@
 	<description>Example Jenkins for Spring Boot</description>
 	<packaging>jar</packaging>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
